@@ -32,4 +32,8 @@
 {% endfor %}
 
 <!-- Main Script -->
+{% if page.customnav %}
+<script src="{{ '/assets/js/script2.js' | relative_url }}"></script>
+{% else %}
 <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+{% endif %}

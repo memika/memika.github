@@ -1,4 +1,4 @@
-<header class="navigation fixed-top">
+<header class="{% if page.customnav %}navigation2{% else %}navigation{% endif %} fixed-top">
   <nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand font-tertiary h3" href="{{ site.baseurl }}/">
       {% if site.data.settings.logo %}
@@ -7,12 +7,12 @@
         <h3 class="text-white font-tertiary">{{site.data.settings.title}}</h3>
       {% endif %}
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
-      aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#{% if page.customnav %}navigation2{% else %}navigation{% endif %}"
+      aria-controls="{% if page.customnav %}navigation2{% else %}navigation{% endif %}" aria-expanded="false" aria-label="Toggle {% if page.customnav %}navigation2{% else %}navigation{% endif %}">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse text-center" id="navigation">
+    <div class="collapse navbar-collapse text-center" id="{% if page.customnav %}navigation2{% else %}navigation{% endif %}">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
           <a class="nav-link" href="{{ site.baseurl }}/">Home</a>
