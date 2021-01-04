@@ -39,10 +39,7 @@ hero:
   hero-title: Welcome! I’m <br> Mika <br>
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "assets/images/icons/play-store.png", link: "#"}
 
 
 #-------------------------------
