@@ -47,7 +47,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Welcome to my personal website. Here I present projects I am working on. Feel free to explore! If you have questions, do not hesitate to contact me.
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -57,12 +57,12 @@ blurb-btn-name: know more
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+#skills-title: Skills
+#skills:
+#- {name: Web Design, color: '#fdb157', value: '90%'}
+#- {name: Logo Design, color: '#9473e6', value: '60%'}
+#- {name: After Effects, color: '#bdecf6', value: '80%'}
+#- {name: Web App, color: '#ffbcaa', value: '70%'}
 
 
 #-------------------------------
@@ -80,10 +80,8 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Study Abroad, date: '2020-2021', organization: 'Lund University, Sweden'}
+- {name: Bachelor in Computer Science, date: 'From 2018', organization: 'Technical University Berlin'}
 
 
 #-------------------------------
