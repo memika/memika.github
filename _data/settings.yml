@@ -36,10 +36,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Welcome! I’m <br> Mika <br>
+  hero-title: Welcome! I’m <br> Mika <br> Developer <br>
 
 social:
-- {icon: "assets/images/icons/play-store.png", link: "#"}
+- {image: "assets/images/icons/play-store.png", link: "#"}
 
 
 #-------------------------------
