@@ -6,7 +6,7 @@ logo:
 author: memika
 description: personal developer page
 email: rebensburgmika@gmail.com
-copyright: Copyright &copy; 2020 Mika Rebensburg
+copyright: Copyright &copy; 2020 Mika Rebensburg <a href="/impressum">impressum</a>
 
 menu:
 - {name: About, link: '/about'}
