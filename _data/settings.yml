@@ -70,9 +70,8 @@ blurb-btn-name: know more
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Data Science Working Student, date: 'Jul 2021 - Oct 2021', organization: 'EXXETA'}
+- {name: Data Engineering Internship, date: 'Nov 2021 - present', organization: 'EXXETA'}
 
 
 #-------------------------------
@@ -80,8 +79,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Study Abroad, date: '2020-2021', organization: 'Lund University, Sweden'}
-- {name: Bachelor in Computer Science, date: 'From 2018', organization: 'Technical University Berlin'}
+- {name: (Planned) Mathematics in Data Science (M.Sc.), date: 'Expected Graduation in 2024', organization: 'Technical University Munich'}
+- {name: Computer Science (M.Sc.), date: '2022 - present', organization: 'Technical University Berlin'}
+- {name: Study Abroad, date: '2020 - 2021', organization: 'Lund University, Sweden'}
+- {name: Computer Science (B.Sc.), date: '2018 - 2022', organization: 'Technical University Berlin'}
 
 
 #-------------------------------
