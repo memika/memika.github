@@ -70,8 +70,8 @@ blurb-btn-name: know more
 
 experience-title: Experience
 experience:
-- {name: Data Science Working Student, icon: data-science-icon, date: 'Nov 2021 - present, organization: 'EXXETA'}
-- {name: Data Engineering Internship, icon: data-science-icon, date: 'Jul 2021 - Oct 2021'', organization: 'EXXETA'}
+- {name: Data Science Working Student, icon: 'data-science-icon.png', date: 'Nov 2021 - present, organization: 'EXXETA'}
+- {name: Data Engineering Internship, icon: 'tech-icon.png', date: 'Jul 2021 - Oct 2021'', organization: 'EXXETA'}
 
 
 #-------------------------------
