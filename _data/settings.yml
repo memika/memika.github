@@ -70,8 +70,8 @@ blurb-btn-name: know more
 
 experience-title: Experience
 experience:
-- {name: Data Science Working Student, date: 'Jul 2021 - Oct 2021', organization: 'EXXETA'}
-- {name: Data Engineering Internship, date: 'Nov 2021 - present', organization: 'EXXETA'}
+- {name: Data Science Working Student, icon: data-science-icon, date: 'Nov 2021 - present, organization: 'EXXETA'}
+- {name: Data Engineering Internship, icon: data-science-icon, date: 'Jul 2021 - Oct 2021'', organization: 'EXXETA'}
 
 
 #-------------------------------
@@ -79,7 +79,7 @@ experience:
 
 education-title: Education
 education:
-- {name: (Planned) Mathematics in Data Science (M.Sc.), date: 'Expected Graduation in 2024', organization: 'Technical University Munich'}
+- {name: Mathematics in Data Science (M.Sc.), date: 'Planned', organization: 'Technical University Munich'}
 - {name: Computer Science (M.Sc.), date: '2022 - present', organization: 'Technical University Berlin'}
 - {name: Study Abroad, date: '2020 - 2021', organization: 'Lund University, Sweden'}
 - {name: Computer Science (B.Sc.), date: '2018 - 2022', organization: 'Technical University Berlin'}
